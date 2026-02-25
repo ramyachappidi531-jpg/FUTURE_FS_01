@@ -6,6 +6,7 @@ my personal professional portfollio website
 ━━━━━━━━━━━━━━━━━━━━
 
 📌 Project Title
+
 ➡ Personal Portfolio Website
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -30,11 +31,17 @@ my personal professional portfollio website
 ━━━━━━━━━━━━━━━━━━━━
 
 ✨ Key Features
+
 ➡ Glassmorphism UI design
+
 ➡ Fully responsive layout (mobile, tablet, desktop)
+
 ➡ Smooth animations and hover effects
+
 ➡ Clean and minimal UI
+
 ➡ Interactive contact form using EmailJS
+
 ➡ Sections: Home, About, Skills, Projects, Contact
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -50,19 +57,17 @@ my personal professional portfollio website
 ━━━━━━━━━━━━━━━━━━━━
 
 📘 What I learned from this project
+
 ➡ Building responsive layouts with Flexbox & Grid
+
 ➡ Creating modern UI using glassmorphism
+
 ➡ Writing clean and structured frontend code
+
 ➡ Handling forms using JavaScript
+
 ➡ Organizing a real frontend project
 
-━━━━━━━━━━━━━━━━━━━━
-
-🚀 Future Improvements
-➡ Add more real projects
-➡ Improve animations and transitions
-➡ Add dark / light mode
-➡ Improve accessibility and performance
 
 ━━━━━━━━━━━━━━━━━━━━
 
