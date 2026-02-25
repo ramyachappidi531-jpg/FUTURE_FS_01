@@ -12,6 +12,7 @@ my personal professional portfollio website
 ━━━━━━━━━━━━━━━━━━━━
 
 👩‍🎓 Student Name
+
 ➡ Ramya Chappidi
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -24,8 +25,11 @@ my personal professional portfollio website
 ━━━━━━━━━━━━━━━━━━━━
 
 🛠️ Tools & Platforms
+
 ➡ VS Code
+
 ➡ GitHub
+
 ➡ EmailJS
 
 ━━━━━━━━━━━━━━━━━━━━
