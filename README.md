@@ -2,27 +2,25 @@
 my personal professional portfollio website
 
 🌟 Personal Professional Portfolio
-
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 📌 Project Title
 
 ➡ Personal Portfolio Website
 
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 👩‍🎓 Student Name
 
 ➡ Ramya Chappidi
-
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 💻 Technical Skills Used
+
 ➡ HTML5
 ➡ CSS3
 ➡ JavaScript
-
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 🛠️ Tools & Platforms
 
@@ -32,7 +30,7 @@ my personal professional portfollio website
 
 ➡ EmailJS
 
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 ✨ Key Features
 
@@ -48,17 +46,16 @@ my personal professional portfollio website
 
 ➡ Sections: Home, About, Skills, Projects, Contact
 
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 🌐 Live Website
 ➡ https://your-live-demo-link
-
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 📂 GitHub Repository
 ➡ https://github.com/your-username/your-repository-name
 
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 📘 What I learned from this project
 
@@ -72,8 +69,7 @@ my personal professional portfollio website
 
 ➡ Organizing a real frontend project
 
-
-━━━━━━━━━━━━━━━━━━━━
+<hr>
 
 💖 Thank you for visiting my portfolio repository!
 🌸 Your support motivates me to keep learning .
